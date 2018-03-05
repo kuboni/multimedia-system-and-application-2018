@@ -8,10 +8,11 @@
   * Dithering 
   * 四個点取代一點表示
   * Halftone printing
-  * Dither 
+  * Dither
+
     * 0 2
 
-    * 3 1\\\(ordered\\\)
+    * 3 1\\(ordered\\)
 
 ##### Image data type
 
@@ -28,15 +29,15 @@
   * Lookup-table\(LUT\)
   * Color picker,color cycling, color palette
 
-* Devise LUT
+* #### Devise LUT
 
   * R3G3B2
-
 * * tofu-cutting 
 * * ![](/assets/download.jpg)
 
   * Medium-cut
 * Popular format
+
   * JPEG 
   * PNG
   * TIFF
@@ -45,7 +46,7 @@
 
   * PDF
 
-  * 
+
 
 
 
