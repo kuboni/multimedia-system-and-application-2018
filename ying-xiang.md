@@ -8,9 +8,10 @@
   * Dithering 
   * 四個点取代一點表示
   * Halftone printing
-  * 0 2
+  * Dither 
+    * 0 2
 
-         3 1\\(ordered\\)
+    * 3 1\\\(ordered\\\)
 
 ##### Image data type
 
@@ -23,11 +24,14 @@
   * 3 bytes \(R, G, B\) 
   * 32 bits\(+transpatency\) 
 * 8-bit color image
+
   * Lookup-table\(LUT\)
   * Color picker,color cycling, color palette
 
 * Devise LUT
+
   * R3G3B2
+
 * * tofu-cutting 
 * * ![](/assets/download.jpg)
 
@@ -37,6 +41,10 @@
   * PNG
   * TIFF
   * EXIF
+  * Postscript
+
+  * PDF
+
   * 
 
 
