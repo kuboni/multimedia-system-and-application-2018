@@ -10,13 +10,9 @@
   * Halftone printing
   * 0 2
 
-    ```
-      3 1\(ordered\)
-    ```
+         3 1\\(ordered\\)
 
-  * 
-
-Image data type
+##### Image data type
 
 * Compression
   * Loseless
@@ -29,6 +25,19 @@ Image data type
 * 8-bit color image
   * Lookup-table\(LUT\)
   * Color picker,color cycling, color palette
+
+* Devise LUT
+  * R3G3B2
+* * tofu-cutting 
+* * ![](/assets/download.jpg)
+
+  * Medium-cut
+* Popular format
+  * JPEG 
+  * PNG
+  * TIFF
+  * EXIF
+  * 
 
 
 
