@@ -26,13 +26,17 @@
 * Brightness
 * Grey-level
 
-
-
 ##### Weber law
 
 ![](/assets/download.gif)
 
 * 強度越小感知越大
+
+##### Nyquist freqency
+
+* 取樣率必須大於２f
+
+
 
 
 
