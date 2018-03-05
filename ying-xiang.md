@@ -3,21 +3,22 @@
 * 1 bit
 * 8 bits
 
-
-
 * Presentation
+
   * Dithering 
   * 四個点取代一點表示
   * Halftone printing
   * 0 2
 
-          3 1\(ordered\) 
+    ```
+      3 1\(ordered\) 
+    ```
 
   * 
 
 Image data type
 
-*  Compression
+* Compression
   * Loseless
   * Lossy
   * 
@@ -27,7 +28,7 @@ Image data type
   * 32 bits\(+transpatency\) 
 * 8-bit color image
   * Lookup-table\(LUT\)
-  * Color picker -&gt; 
+  * Color picker,color cycling, color palette
 
 
 
