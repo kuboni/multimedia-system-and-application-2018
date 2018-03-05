@@ -35,6 +35,7 @@
 ##### Nyquist freqency
 
 * 取樣率必須大於２f
+* ![](/assets/download.png)
 
 
 
