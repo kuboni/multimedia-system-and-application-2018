@@ -1,3 +1,8 @@
+
+---
+
+---
+
 ### Image
 
 * Spatial domain
@@ -84,10 +89,6 @@ More
 * CIELAB
 * 人對於低頻誤差較敏感
   * solution : 賦予顏色權重
-
-
-
-
 
 
 
