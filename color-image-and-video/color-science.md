@@ -10,7 +10,7 @@
 ### Human Vision
 
 * 三種視錐神經 \(RGB\) - cone cell
-* 一種視桿細胞 \(Grey Level\) - rod cell
+* 一組視桿細胞矩陣 \(Grey Level\) - rod cell
 
 ### Spectral Sensitivity of the Eye
 
