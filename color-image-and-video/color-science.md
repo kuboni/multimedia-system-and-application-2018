@@ -8,6 +8,9 @@
 
 ### Human Vision
 
+* 三種視錐神經 \(RGB\)
+* 一種視桿細胞 \(Grey Level\)
+
 ### Spectral Sensitivity of the Eye
 
 ### Image Formation
