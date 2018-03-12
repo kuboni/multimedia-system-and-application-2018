@@ -32,12 +32,6 @@
 
 * 強度越小感知越大
 
-##### Digitalization
-
-* Spatial Sampling
-  * 取樣率 e.g. 512 x 512
-* Quantization
-
 ##### 
 
 ##### Nyquist freqency
@@ -50,6 +44,14 @@
   * e.g. Moire Patterns
     * ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Moire_on_parrot_feathers.jpg/160px-Moire_on_parrot_feathers.jpg)
   * Image De-mosaicing
+
+
+
+##### Digitalization
+
+* Spatial Sampling
+  * 取樣率 e.g. 512 x 512
+* Quantization
 
 
 
