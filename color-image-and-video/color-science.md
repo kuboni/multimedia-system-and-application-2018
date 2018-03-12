@@ -14,6 +14,7 @@
 ### Spectral Sensitivity of the Eye
 
 * 接收藍色的頻段較小
+* RGB cone cell -&gt; luminous efficiency function
 
 ### Image Formation
 
