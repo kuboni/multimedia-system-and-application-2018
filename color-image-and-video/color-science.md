@@ -1,5 +1,9 @@
 ### Light and Spectra
 
+* 光
+  * 電磁波
+  * 人：可見光波段
+
 ### Human Vision
 
 ### Spectral Sensitivity of the Eye
