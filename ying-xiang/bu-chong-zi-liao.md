@@ -43,6 +43,8 @@
   * ![](/assets/download.png)
   * e.g. Moire Patterns
     * ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Moire_on_parrot_feathers.jpg/160px-Moire_on_parrot_feathers.jpg)\(鸚鵡的翅膀\)
+    * ![](https://insaneimpact.com/wp-content/uploads/2017/11/moire-gif.gif)
+    * ![](https://swannsmith.com/wp-content/uploads/2013/04/concentric-lines.gif)
   * Image De-mosaicing
 
 ##### Digitalization
