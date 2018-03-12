@@ -1,4 +1,4 @@
-### $$$$Light and Spectra
+### Light and Spectra
 
 ### Human Vision
 
@@ -11,6 +11,8 @@
 ### Color Matching Function
 
 ### CIE chromaticity Diagram
+
+chromatic: 色度
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CIE1931xy_CIERGB.svg/495px-CIE1931xy_CIERGB.svg.png)
 
