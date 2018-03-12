@@ -53,13 +53,20 @@
   * 取樣率 e.g. 512 x 512
   * Nyquist Rule
 * Quantization
-  * 8 bit, 16 bit ... 
+
+  * 8 bit, 16 bit ...
 
   * uniform quantization
 
   * non-uniform quantization
 
     * weber's law
+
+    * ![](https://analogquantized.files.wordpress.com/2013/02/nonuniform_sampling.png?w=768&h=351)
+
+  * Optimal Quantization \(Loyld-Max\)
+
+    * 依資料型態分割
 
     * 
 
