@@ -20,5 +20,15 @@ chromatic: 色度
 
 ### Out-of-Gamut Colors
 
+* Grassman's Law
+
+### White Point Correction
+
+### XYZ to RGB Transform
+
+### Transform with Gamma Correction
+
+### L\*a\*b \(CIELAB\) Color Model
+
 
 
