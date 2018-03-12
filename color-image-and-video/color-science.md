@@ -18,9 +18,7 @@ chromatic: 色度
 
 ### Color Monitor Specification
 
-
-
-
+### Out-of-Gamut Colors
 
 
 
