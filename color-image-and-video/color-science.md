@@ -25,6 +25,8 @@
 
 * gamma-corrected
 * ![](https://cg2010studio.files.wordpress.com/2011/12/gamma3.png?w=378&h=378)
+  * Vin &lt; 0.018, Vout = 4.5 x Vin
+  * Vin &gt;= 0.018, Vout = 1.099 x \(Vin^0.45\) 0.099
 
 ### Color Matching Function
 
