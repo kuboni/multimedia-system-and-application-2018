@@ -5,6 +5,7 @@
   * 人：可見光波段
 * Spectrophotometer
   * ![](https://upload.wikimedia.org/wikipedia/commons/f/f7/NormSPD.png)
+  * SPD - Spectral Power Distribution
 
 ### Human Vision
 
