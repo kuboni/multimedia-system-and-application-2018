@@ -34,6 +34,9 @@
   * Red
   * Green
   * Blue
+* colorimeter 
+* CIE RGB color-matching function
+  * ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/CIE1931_RGBCMF.svg/650px-CIE1931_RGBCMF.svg.png)
 
 ### CIE chromaticity Diagram
 
