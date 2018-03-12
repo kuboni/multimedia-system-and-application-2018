@@ -75,12 +75,14 @@
 * ppi = pixel per inch \(未印出\)
 * dpi = dots per inch \(印出\)
 
-
-
 #### Color Quantization
 
+More
+
 * Generalized Lloyd Algorithm \(GLA\)
+* RGB
 * CIELAB
+* 人對於低頻誤差較敏感
 
 
 
