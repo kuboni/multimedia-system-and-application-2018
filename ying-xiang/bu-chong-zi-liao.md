@@ -70,7 +70,12 @@
 
     * 依資料型態分佈分割
 
-    * 
+##### Image resolution & size
+
+* ppi = pixel per inch \(未印出\)
+* dpi = dots per inch \(印出\)
+
+
 
 
 
