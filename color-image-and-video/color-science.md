@@ -8,14 +8,13 @@
 
 ### Human Vision
 
-* 三種視錐神經 \(RGB\)
-* 一種視桿細胞 \(Grey Level\)
+* 三種視錐神經 \(RGB\) - cone cell
+* 一種視桿細胞 \(Grey Level\) - rod cell
 
 ### Spectral Sensitivity of the Eye
 
 * 接收藍色的頻段較小
-* 
-### Image Formation
+* ### Image Formation
 
 ### Camera Systems
 
