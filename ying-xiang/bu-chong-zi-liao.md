@@ -66,6 +66,8 @@
 
   * Optimal Quantization \(Lloyd-Max\)
 
+    * Lloyd-Max Quantizer
+
     * 依資料型態分佈分割
 
     * 
