@@ -19,9 +19,9 @@
 
 ### Image Formation
 
-
-
 ### Camera Systems
+
+### Gamma Correction
 
 ### Color Matching Function
 
