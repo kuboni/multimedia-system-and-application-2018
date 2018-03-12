@@ -3,6 +3,8 @@
 * 光
   * 電磁波
   * 人：可見光波段
+* Spectrophotometer
+  * ![](https://upload.wikimedia.org/wikipedia/commons/f/f7/NormSPD.png)
 
 ### Human Vision
 
