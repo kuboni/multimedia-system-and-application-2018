@@ -51,7 +51,9 @@
 
 * Spatial Sampling
   * 取樣率 e.g. 512 x 512
+  * Nyquist Rule
 * Quantization
+  * gray level
 
 
 
