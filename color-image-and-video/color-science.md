@@ -42,7 +42,11 @@
 
 chromatic: 色度
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CIE1931xy_CIERGB.svg/495px-CIE1931xy_CIERGB.svg.png)
+* 在 Color-matching function 中存在負值的部份，因此改以CIE standard XYZ color-matching function表示
+* 
+
+
+ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CIE1931xy_CIERGB.svg/495px-CIE1931xy_CIERGB.svg.png)
 
 ### Color Monitor Specification
 
