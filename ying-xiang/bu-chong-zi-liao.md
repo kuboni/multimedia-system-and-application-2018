@@ -77,5 +77,10 @@
 
 
 
+#### Color Quantization
+
+* Generalized Lloyd Algorithm \(GLA\)
+* CIELAB
+
 
 
