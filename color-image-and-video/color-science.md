@@ -23,6 +23,9 @@
 
 ### Gamma Correction
 
+* gamma-corrected
+* ![](https://cg2010studio.files.wordpress.com/2011/12/gamma3.png?w=378&h=378)
+
 ### Color Matching Function
 
 ### CIE chromaticity Diagram
