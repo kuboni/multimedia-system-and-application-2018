@@ -37,10 +37,13 @@
 * Spatial Sampling
   * 取樣率 e.g. 512 x 512
 * Quantization
-* 
+
+##### 
+
 ##### Nyquist freqency
 
 * Nyquist Rule : 取樣率必須大於２f， f 為訊號之最高頻率
+
 * Aliasing 
   * ![](/assets/download.png)
   * e.g. Moire Patterns
