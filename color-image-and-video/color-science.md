@@ -14,7 +14,8 @@
 ### Spectral Sensitivity of the Eye
 
 * 接收藍色的頻段較小
-* ### Image Formation
+
+### Image Formation
 
 ### Camera Systems
 
