@@ -53,7 +53,15 @@
   * 取樣率 e.g. 512 x 512
   * Nyquist Rule
 * Quantization
-  * gray level
+  * 8 bit, 16 bit ... 
+
+  * uniform quantization
+
+  * non-uniform quantization
+
+    * weber's law
+
+    * 
 
 
 
