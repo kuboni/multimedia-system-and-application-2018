@@ -64,9 +64,9 @@
 
     * ![](https://analogquantized.files.wordpress.com/2013/02/nonuniform_sampling.png?w=768&h=351)
 
-  * Optimal Quantization \(Loyld-Max\)
+  * Optimal Quantization \(Lloyd-Max\)
 
-    * 依資料型態分割
+    * 依資料型態分佈分割
 
     * 
 
