@@ -48,8 +48,7 @@
   * ![](/assets/download.png)
   * e.g. Moire Patterns
     * ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Moire_on_parrot_feathers.jpg/160px-Moire_on_parrot_feathers.jpg)
-
-##### 
+  * I
 
 
 
