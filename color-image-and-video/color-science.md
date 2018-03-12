@@ -30,6 +30,11 @@
 
 ### Color Matching Function
 
+* Color Primaries
+  * Red
+  * Green
+  * Blue
+
 ### CIE chromaticity Diagram
 
 chromatic: 色度
