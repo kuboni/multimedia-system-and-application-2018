@@ -55,9 +55,22 @@ chromatic: 色度
 
 ### Color Monitor Specification
 
+
+
 ### Out-of-Gamut Colors
 
+gamut 範圍
+
 * Grassman's Law
+* RGB值中有負值
+  * 人眼可見、機器不能顯
+  * solution :  
+  * 1. in-gamut color 
+
+    ![](/assets/in-gamut.png)
+    2. closest complementary color
+
+
 
 ### White Point Correction
 
