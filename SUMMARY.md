@@ -8,4 +8,8 @@
   * [Color Science](color-image-and-video/color-science.md)
   * [Color Model in Images](color-image-and-video/color-science/color-model-in-images.md)
   * [Color Model in Video](color-image-and-video/color-model-in-video.md)
+* [Speech Processing](speech-processing.md)
+  * [Digitization of Sound](speech-processing/digitzation-of-sound.md)
+  * MIDI: Musical Instrument Digital Interface
+  * Quantization and Transmission of Audio
 
