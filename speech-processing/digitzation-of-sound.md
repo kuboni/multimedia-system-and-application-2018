@@ -6,20 +6,21 @@
 
 1. 取樣 （sampling）
 
-* Sampling frequency
-  * audio 8k~48k \(Nyquist theory\)
+Sampling frequency
 
-   2. 量化程度 
+* audio 8k~48k \(Nyquist theory\)
 
-* uniform？non-uniform？
+2. 量化程度 
 
-   3. 檔案格式
+uniform？non-uniform？
 
-* .wav？ .mp3？
+3. 檔案格式
 
-
+.wav？ .mp3？
 
 #### Nyquist theory
+
+
 
 
 
