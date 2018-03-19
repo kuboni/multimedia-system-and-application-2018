@@ -6,8 +6,9 @@
 
 1. 取樣 （sampling）
 
-* Sampling frequency
-  * audio 8k~48k \(Neiquise theory\)
+2. Sampling frequency
+
+   * audio 8k~48k \(Nyquist theory\)
 
 
 
