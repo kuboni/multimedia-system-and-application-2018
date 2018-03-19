@@ -79,6 +79,11 @@ gamut 範圍
 | subtractive color | additive color |
 | :--- | :--- |
 | 印表機 | 投影機 |
+| ![](/assets/add.png) | ![](/assets/sub.png) |
+
+### 
+
+### 
 
 ### White Point Correction
 
