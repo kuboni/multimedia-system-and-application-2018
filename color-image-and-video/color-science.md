@@ -74,15 +74,11 @@ gamut 範圍
 
   * \[R1, G1, B1\] + \[R2, G2, B2\] = \[R, G, B\]
 
-
-
 ##### subtractive color vs additive color 顏色系統
 
 | subtractive color | additive color |
 | :--- | :--- |
 | 印表機 | 投影機 |
-
-
 
 ### White Point Correction
 
@@ -91,8 +87,6 @@ gamut 範圍
 從 XYZ 系統 map 到 RGB 需要進行修正，使得白點相互對應皆為1
 
 correction factor
-
-
 
 ### XYZ to RGB Transform
 
@@ -103,6 +97,12 @@ correction factor
 ### Transform with Gamma Correction
 
 ### L\*a\*b \(CIELAB\) Color Model
+
+* L 
+* A
+* B
+* ![](/assets/CIELAB.png)
+* 與人類感知的色彩差距一致
 
 
 
