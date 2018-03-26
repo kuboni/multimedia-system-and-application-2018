@@ -30,9 +30,8 @@ c. 檔案格式
 * ![](/assets/.png)
 
 * dynamic range
+
   * ![](/assets/dynamic range.png)
-
-
 
 ### Quantization
 
@@ -44,6 +43,13 @@ c. 檔案格式
 * $$dr = k(1/s)ds$$
 * $$\mu -law$$
 * $$a-law$$
+* ![](/assets/non-linear trans.png)
+
+---
+
+### Audio Filter
+
+* band-pass filter
 
 
 
