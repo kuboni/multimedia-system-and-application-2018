@@ -24,11 +24,26 @@ c. 檔案格式
 
 ![](/assets/SNR.png)
 
-
-
 #### Signal to Quantization Noise Ratio \(SQNR\)
 
 * 量化時造成的誤差
+* ![](/assets/.png)
+
+* dynamic range
+  * ![](/assets/dynamic range.png)
+
+
+
+### Quantization
+
+#### Linear quantization
+
+#### Non-uniform quantization
+
+* weber's law
+* $$dr = k(1/s)ds$$
+* $$\mu -law$$
+* $$a-law$$
 
 
 
