@@ -17,5 +17,14 @@
   * loss
   * Coding
 
+##### PCM in Speech Compression
+
+問題
+
+1. 高頻變成雜訊
+   1. band-limiting filter
+
+
+
 
 
