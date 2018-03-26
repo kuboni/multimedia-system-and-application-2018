@@ -34,7 +34,13 @@
     * Shift-up
     * Shift-down
   * ![](/assets/lossless-predictive-coding.png)
-  * ![](/assets/lossless predict.png)
+  * ![](/assets/lossless predict.png)-
+
+##### Differential PCM \(DPCM\)
+
+![](/assets/DPCM-import.png)
+
+##### DM \(Delta MOdulation\)
 
 
 
