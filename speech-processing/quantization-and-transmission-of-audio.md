@@ -1,14 +1,12 @@
-### 聲音的編碼 
+### 聲音的編碼
 
 * Coding of Audio
 
 -
 
 * PCM: Pulse Code Modulation
-* DPCM \(Differentiall\)
+* DPCM \(Differential\)
 * ADPCM \(adaptive\)
-
-
 
 —
 
