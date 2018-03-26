@@ -20,5 +20,15 @@ c. 檔案格式
 
 #### Nyquist theory
 
+#### Signal to Noise Ratio\(SNR\)
+
+![](/assets/SNR.png)
+
+
+
+#### Signal to Quantization Noise Ratio \(SQNR\)
+
+* 量化時造成的誤差
+
 
 
