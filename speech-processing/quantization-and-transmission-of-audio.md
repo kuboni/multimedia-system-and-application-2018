@@ -33,6 +33,8 @@
   * 問題：最壞的情況下，Dynamic range會增加
     * Shift-up
     * Shift-down
+  * ![](/assets/lossless-predictive-coding.png)
+  * ![](/assets/lossless predict.png)
 
 
 
