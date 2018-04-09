@@ -11,7 +11,8 @@
   * x\[n\] = e\[n\]\*h\[n\] --&gt;&gt; x\[n\] = e\[n\]+h\[n\]
 
   * ![](/assets/homomorphic-analysis.png)
-  * -&gt; Cepstrum
+
+  * -&gt; Cepstrum \(倒頻譜\)
 
 
 
