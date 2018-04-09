@@ -14,8 +14,6 @@
 
   * -&gt; Cepstrum \(倒頻譜\)
 
-
-
 #### Speech Coder
 
 -
@@ -32,6 +30,33 @@
   * frequency domain
 * 音源編碼 \(source\)
   * linear predict coding
+
+-
+
+tradeoff
+
+* bit rate &lt;-&gt; quality
+  * quality 
+    *  MOS \(mean opinion score\)
+    * SNR \(signal to noise rate\)
+
+-
+
+##### scalar waveform coder
+
+– Linear PCM
+
+– $$\miu$$-law
+
+– A-law PCM
+
+– APCM
+
+– DPCM
+
+– DM
+
+
 
 
 
