@@ -12,4 +12,5 @@
   * [Digitization of Sound](speech-processing/digitzation-of-sound.md)
   * [MIDI: Musical Instrument Digital Interface](speech-processing/midi-musical-instrument-digital-interface.md)
   * [Quantization and Transmission of Audio](speech-processing/quantization-and-transmission-of-audio.md)
+  * [補充](speech-processing/bu-chong.md)
 
