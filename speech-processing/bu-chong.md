@@ -37,7 +37,7 @@ tradeoff
 
 * bit rate &lt;-&gt; quality
   * quality 
-    *  MOS \(mean opinion score\)
+    * MOS \(mean opinion score\)
     * SNR \(signal to noise rate\)
 
 -
@@ -57,6 +57,8 @@ tradeoff
 – DM
 
 
+
+-
 
 
 
