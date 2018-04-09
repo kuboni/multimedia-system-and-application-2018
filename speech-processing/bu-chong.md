@@ -1,4 +1,4 @@
-常見編碼方式
+#### 常見編碼方式
 
 * time domain coding
 * frequency domain coding
@@ -13,6 +13,25 @@
   * ![](/assets/homomorphic-analysis.png)
 
   * -&gt; Cepstrum \(倒頻譜\)
+
+
+
+#### Speech Coder
+
+-
+
+* loseless compression
+* lossy compression
+
+-
+
+##### Speech coder 的兩種分類
+
+* 波形編碼 \(wavform\)
+  * time domain
+  * frequency domain
+* 音源編碼 \(source\)
+  * linear predict coding
 
 
 
