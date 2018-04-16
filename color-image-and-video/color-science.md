@@ -76,9 +76,9 @@ gamut 範圍
 
 ##### subtractive color vs additive color 顏色系統
 
-| subtractive color | additive color |
+| addictive color | subtractive color |
 | :--- | :--- |
-| 印表機 | 投影機 |
+| 投影機 | 影印機 |
 | ![](/assets/add.png) | ![](/assets/sub.png) |
 
 ### 
