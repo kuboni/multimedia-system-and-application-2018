@@ -14,6 +14,6 @@
   * [Quantization and Transmission of Audio](speech-processing/quantization-and-transmission-of-audio.md)
   * [補充](speech-processing/bu-chong.md)
 * Fundamental Video
-  * [Type of Video Signal](untitled/type-of-video-signal.md)
-* [TV](chroma-subsampling.md)
+  * [Type of Video Signal](untitled/type-of-video-signal/README.md)
+    * [TV](untitled/type-of-video-signal/chroma-subsampling.md)
 
