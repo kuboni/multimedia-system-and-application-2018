@@ -1,6 +1,4 @@
-## MIDI: Musical Instrument Digital Interface
-
-
+# MIDI: Musical Instrument Digital Interface
 
 
 
