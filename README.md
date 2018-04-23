@@ -9,5 +9,6 @@
   * Project\(40%\)
   * 出席\(10%\)
 * 課程網站: [www.chinese.csie.ncku.edu.tw](https://github.com/kuboni/multimedia-system-and-application-2018/tree/7807fc8395dba5384ad4df3ba3f6a489bcae2ca6/www.chinese.csie.ncku.edu.tw)
+* 助教信箱：[iamkyh77@gmail.com](mailto:iamkyh77@gmail.com)
 * Office Hours: 週二 14:00 ~ 16:00
 
