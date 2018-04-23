@@ -1,4 +1,4 @@
-# Chroma Subsampling
+# TV
 
 Chroma subsampling scheme \(YCbCr\)
 
@@ -11,4 +11,16 @@ Chroma subsampling scheme \(YCbCr\)
   * 減少資料傳送量
 * 4:1:1
 * 4:2:0
+
+---
+
+CCIR Standard
+
+---
+
+### HDTV
+
+high definition TV
+
+* 20 MHz 的頻寬 \(一般約為6MHz\)
 

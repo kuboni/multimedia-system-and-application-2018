@@ -15,5 +15,5 @@
   * [補充](speech-processing/bu-chong.md)
 * Fundamental Video
   * [Type of Video Signal](untitled/type-of-video-signal.md)
-* [Chroma Subsampling](chroma-subsampling.md)
+* [TV](chroma-subsampling.md)
 
