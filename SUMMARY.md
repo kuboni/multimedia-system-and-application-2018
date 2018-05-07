@@ -16,4 +16,7 @@
 * Fundamental Video
   * [Type of Video Signal](untitled/type-of-video-signal/README.md)
     * [TV](untitled/type-of-video-signal/chroma-subsampling.md)
+* Lossy Compression Algorithms
+  * [Transform Coding](lossy-compression-algorithms/transform-coding.md)
+  * [Wavelet-Based Coding](lossy-compression-algorithms/untitled.md)
 

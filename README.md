@@ -1,6 +1,6 @@
 # Introduction
 
-此課程由成大資工吳宗憲老師所開設，於106學年度下學期。
+f此課程由成大資工吳宗憲老師所開設，於106學年度下學期。
 
 * 參考書目: Fundamentals of Multimedia Ze-Nian Li and Mark S. Drew
 * 評分方式
