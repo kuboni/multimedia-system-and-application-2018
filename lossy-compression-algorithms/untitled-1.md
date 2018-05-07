@@ -18,7 +18,7 @@ W - Wavelet transform
 * quad tree
   * 例外 : root node
 * hypothesis
-  * 在相同方位下，所有子孫皆為 0 ，則稱為 zero tree
+  * 在相同方位下，所有子孫皆小於 threshold ，則稱為 zero tree
 * 演算法
 
 1.  DWT 2-D image
