@@ -10,7 +10,7 @@
 * integral  f\(x\)  = 0
 * mother wavelet \(母小波\) : 用於 scaling
 * 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ## Discrete Wavelet Transform
 
@@ -35,18 +35,6 @@
 * 
 ![](../.gitbook/assets/image.png)
 
-block diagram​ of 1D Dyadic Wavelet Transform
-
-![](../.gitbook/assets/image%20%288%29.png)
-
-![](../.gitbook/assets/image%20%289%29.png)
-
-
-
-
-
----
-
 ## Wavelet Type
 
 ### mexican-hat wavelet
@@ -55,9 +43,27 @@ block diagram​ of 1D Dyadic Wavelet Transform
 
 ### Orthogonal wavelet
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### Biorthogonal wavelet
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
+
+
+
+## 1D Wavelet Transform
+
+block diagram​ of 1D Dyadic Wavelet Transform
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAlAgwHSv5LZoYRtnBx%2F-LBtJtczoYtCQSuTsZIq%2F-LBtMMoE_OZAdsaRCsQn%2Fimage.png?alt=media&token=eec19862-0718-4833-8d04-2e7ae791b0d9)
+
+![](../.gitbook/assets/image%20%2814%29.png)
+
+
+
+## 2D Wavelet Transform
+
+* 如圖示
+
+![](../.gitbook/assets/image%20%2812%29.png)
 
