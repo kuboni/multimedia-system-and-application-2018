@@ -1,4 +1,4 @@
-# Embedde Zerotree of Wavelet Coefficients \(EZW\)
+# Embedded Zerotree of Wavelet Coefficients \(EZW\)
 
 E - Embedded encoding
 

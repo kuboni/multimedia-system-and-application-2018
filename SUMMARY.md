@@ -20,5 +20,5 @@
   * [Transform Coding](lossy-compression-algorithms/transform-coding.md)
   * [Wavelet-Based Coding](lossy-compression-algorithms/untitled.md)
   * [Wavelet Packets](lossy-compression-algorithms/wavelet-packets.md)
-  * [Embedde Zerotree of Wavelet Coefficients \(EZW\)](lossy-compression-algorithms/untitled-1.md)
+  * [Embedded Zerotree of Wavelet Coefficients \(EZW\)](lossy-compression-algorithms/untitled-1.md)
 
