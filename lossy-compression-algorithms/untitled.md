@@ -10,7 +10,7 @@
 * integral  f\(x\)  = 0
 * mother wavelet \(母小波\) : 用於 scaling
 * 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Discrete Wavelet Transform
 
@@ -37,9 +37,27 @@
 
 block diagram​ of 1D Dyadic Wavelet Transform
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 
+
+
+
+---
+
+## Wavelet Type
+
+### mexican-hat wavelet
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+### Orthogonal wavelet
+
+![](../.gitbook/assets/image%20%284%29.png)
+
+### Biorthogonal wavelet
+
+![](../.gitbook/assets/image%20%2815%29.png)
 
