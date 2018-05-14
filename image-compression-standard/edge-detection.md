@@ -16,13 +16,13 @@ g\(x,y\) = T\[f\(x,y\)\]
 
 using convolution
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 * associative in convolution
 * 
-![associative](../.gitbook/assets/image%20%2823%29.png)
+![associative](../.gitbook/assets/image%20%2828%29.png)
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 {% hint style="info" %}
 smooth derivative remove noise, but blurs edge.
@@ -41,4 +41,48 @@ smooth derivative remove noise, but blurs edge.
   *  color, intensity, texture
   * continuity and closure
   * high-level knowledge....etc.
+
+## Operator
+
+### Laplacian Operator
+
+* one dimension function
+
+![](../.gitbook/assets/image%20%2821%29.png)
+
+![](../.gitbook/assets/image%20%2815%29.png)
+
+* two-dimension function
+
+![](../.gitbook/assets/image%20%2833%29.png)
+
+![](../.gitbook/assets/image%20%2825%29.png)
+
+![](../.gitbook/assets/image%20%2830%29.png)
+
+### Sobel Operator
+
+![](../.gitbook/assets/image%20%2811%29.png)
+
+* Advantage
+  * implement 容易
+  * 整數計算
+* Drawback
+  * 雜訊敏感
+  * 準確率不穩定 \(3x3\)
+
+## Pre-Processing
+
+### Histogram Equalization
+
+經由 以下轉換
+
+> s = T\(r\),  0≤r ≤L−1
+
+* T\(r\)  single-valued and monotonically increasing in the interval 0 ≤ r ≤ L − 1
+*  0 ≤ T\(r\) ≤ L − 1 for 0 ≤ r ≤ L − 1
+
+### Noise Reduction
+
+### Morphology
 
