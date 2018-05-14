@@ -25,7 +25,13 @@ description: ch9
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-### RLC \(run-length coding\)
+### Quantization
+
+### AC
+
+RLC \(run-length coding\)
 
 ![](.gitbook/assets/image%20%2814%29.png)
+
+### DPCM
 
