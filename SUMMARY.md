@@ -21,5 +21,6 @@
   * [Wavelet-Based Coding](lossy-compression-algorithms/untitled.md)
   * [Wavelet Packets](lossy-compression-algorithms/wavelet-packets.md)
   * [Embedded Zerotree of Wavelet Coefficients \(EZW\)](lossy-compression-algorithms/untitled-1.md)
-* [image compression standard](image-compression-standard.md)
+* [image compression standard](image-compression-standard/README.md)
+  * [Edge Detection](image-compression-standard/edge-detection.md)
 
