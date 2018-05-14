@@ -35,3 +35,35 @@ RLC \(run-length coding\)
 
 ### DPCM
 
+### Entropy Coding
+
+#### Huffman Coding for DPCM
+
+#### Huffman Coding for AC
+
+
+
+### Common JPEG Mode
+
+* sequential mode
+  * right-to-left
+  * top-to-bottom
+* progressive mode
+  * low quality first
+  * high quality next
+  * 作法
+    * spectral selection
+    * successive approximation
+* hierarchical mode
+  * encode low resolution first
+  * Algorithm \(encode\)
+    * reduce image resolution
+    * compress low-resolution image F4
+    * compress difference image d2
+    * compress difference image d1
+  * Algorithm \(decode\)
+    * decompress the encode low-resolution image F4
+    * Restore image ~f2 the intermediate  resolution
+    * Restore image ~f1 the original resolution
+* lossless mode
+
