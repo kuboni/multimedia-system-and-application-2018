@@ -4,5 +4,7 @@
 
 {% page-ref page="untitled.md" %}
 
+{% page-ref page="standard.md" %}
+
 
 
