@@ -10,11 +10,12 @@
 * 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-I-VOP
+### Preprocessing
 
-P-VOP
+* padding
+  * 
 
-Motion Compensation
+![](../.gitbook/assets/image%20%2810%29.png)
 
 
 

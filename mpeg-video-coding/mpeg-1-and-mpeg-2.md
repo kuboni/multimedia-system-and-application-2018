@@ -10,9 +10,9 @@ description: video coding
 * Motion compensation
   * H. 261
 * 
-![bi-direction search](../.gitbook/assets/image%20%2835%29.png)
+![bi-direction search](../.gitbook/assets/image%20%2836%29.png)
 
-![% in figure is represented as &quot;average&quot;](../.gitbook/assets/image%20%2817%29.png)
+![% in figure is represented as &quot;average&quot;](../.gitbook/assets/image%20%2818%29.png)
 
 ## MPEG-2
 
