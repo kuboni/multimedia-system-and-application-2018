@@ -8,7 +8,7 @@ description: ch9 supplement
 
 g\(x,y\) = T\[f\(x,y\)\]
 
-![convolution of spatial ](../.gitbook/assets/image%20%282%29.png)
+![convolution of spatial ](../.gitbook/assets/image%20%283%29.png)
 
 ## Edge Detection
 
@@ -16,13 +16,13 @@ g\(x,y\) = T\[f\(x,y\)\]
 
 using convolution
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 * associative in convolution
 * 
-![associative](../.gitbook/assets/image%20%2833%29.png)
+![associative](../.gitbook/assets/image%20%2837%29.png)
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 {% hint style="info" %}
 smooth derivative remove noise, but blurs edge.
@@ -48,21 +48,21 @@ smooth derivative remove noise, but blurs edge.
 
 * one dimension function
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 * two-dimension function
 
+![](../.gitbook/assets/image%20%2843%29.png)
+
+![](../.gitbook/assets/image%20%2833%29.png)
+
 ![](../.gitbook/assets/image%20%2839%29.png)
-
-![](../.gitbook/assets/image%20%2830%29.png)
-
-![](../.gitbook/assets/image%20%2835%29.png)
 
 ### Sobel Operator
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 * Advantage
   * implement 容易

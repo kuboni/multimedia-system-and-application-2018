@@ -17,13 +17,13 @@ description: ch9
 
 
 
-![JPEG encoder](../.gitbook/assets/image%20%2834%29.png)
+![JPEG encoder](../.gitbook/assets/image%20%2838%29.png)
 
 * DCT on image block
   * blocky
 * Quantization
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### Quantization
 
@@ -31,7 +31,7 @@ description: ch9
 
 RLC \(run-length coding\)
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 ### DPCM
 

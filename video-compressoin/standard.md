@@ -2,7 +2,7 @@
 
 ## H. 261
 
-![H.261 Frame sequence](../.gitbook/assets/image%20%2815%29.png)
+![H.261 Frame sequence](../.gitbook/assets/image%20%2818%29.png)
 
 * image compression -&gt; Motion compensation -&gt; MC -&gt; MC -&gt; IC -&gt; ....
 
@@ -11,7 +11,7 @@
 * Spatial redundancy removal
 * 一段時間使用 \(避免錯誤擴大\)
 * 
-![I-Frame coding](../.gitbook/assets/image%20%2818%29.png)
+![I-Frame coding](../.gitbook/assets/image%20%2821%29.png)
 
 
 
@@ -27,7 +27,7 @@
 
 ### Quantization
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 
 

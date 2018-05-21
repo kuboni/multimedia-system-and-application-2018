@@ -27,5 +27,7 @@
   * [Motion Compensation](video-compressoin/motion-compensation.md)
   * [Motion Vector](video-compressoin/untitled.md)
   * [Standard](video-compressoin/standard.md)
-* MPEG Video Coding
+* [MPEG Video Coding](mpeg-video-coding/README.md)
+  * [MPEG-1 and MPEG-2](mpeg-video-coding/mpeg-1-and-mpeg-2.md)
+  * [MPEG-4](mpeg-video-coding/untitled.md)
 

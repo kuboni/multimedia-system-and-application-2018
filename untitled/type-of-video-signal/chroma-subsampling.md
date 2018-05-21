@@ -5,7 +5,7 @@ Chroma subsampling scheme \(YCbCr\)
 * 4:4:4
   * 
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 * 4:2:2
   * 減少資料傳送量
