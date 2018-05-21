@@ -17,7 +17,7 @@ description: ch9
 
 
 
-![JPEG encoder](../.gitbook/assets/image%20%2829%29.png)
+![JPEG encoder](../.gitbook/assets/image%20%2830%29.png)
 
 * DCT on image block
   * blocky
@@ -31,7 +31,7 @@ description: ch9
 
 RLC \(run-length coding\)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### DPCM
 

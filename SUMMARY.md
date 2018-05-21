@@ -23,4 +23,7 @@
   * [Embedded Zerotree of Wavelet Coefficients \(EZW\)](lossy-compression-algorithms/untitled-1.md)
 * [image compression standard](image-compression-standard/README.md)
   * [Edge Detection](image-compression-standard/edge-detection.md)
+* [Video compressoin](video-compressoin/README.md)
+  * [Motion Compensation](video-compressoin/motion-compensation.md)
+  * Motion Vector
 

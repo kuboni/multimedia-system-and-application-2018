@@ -47,7 +47,7 @@
 
 ### Biorthogonal wavelet
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 
 
@@ -57,7 +57,7 @@ block diagram​ of 1D Dyadic Wavelet Transform
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAlAgwHSv5LZoYRtnBx%2F-LBtJtczoYtCQSuTsZIq%2F-LBtMMoE_OZAdsaRCsQn%2Fimage.png?alt=media&token=eec19862-0718-4833-8d04-2e7ae791b0d9)
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 
 
@@ -65,5 +65,5 @@ block diagram​ of 1D Dyadic Wavelet Transform
 
 * 如圖示
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
