@@ -16,13 +16,13 @@ g\(x,y\) = T\[f\(x,y\)\]
 
 using convolution
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 * associative in convolution
 * 
-![associative](../.gitbook/assets/image%20%2829%29.png)
+![associative](../.gitbook/assets/image%20%2830%29.png)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="info" %}
 smooth derivative remove noise, but blurs edge.
@@ -48,17 +48,17 @@ smooth derivative remove noise, but blurs edge.
 
 * one dimension function
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
 * two-dimension function
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 ### Sobel Operator
 
