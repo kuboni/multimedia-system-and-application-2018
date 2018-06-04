@@ -30,4 +30,6 @@
 * [MPEG Video Coding](mpeg-video-coding/README.md)
   * [MPEG-1 and MPEG-2](mpeg-video-coding/mpeg-1-and-mpeg-2.md)
   * [MPEG-4](mpeg-video-coding/untitled.md)
+* [Audio Compression](audio-compression.md)
+* [Untitled](untitled-1.md)
 
